@@ -1,0 +1,19 @@
+CLASE: String.java
+
+API: String documentation jdk 8
+
+METODOS STATIC
+--------------
+String x1 = String.valueOf(5);
+
+
+METODOS INSTANCIA(OBJETO)
+-----------------
+String x2 = "Hola".substring(0,2);
+
+String s = "Hola";
+String x2 = s.substring(0,2);
+
+CLASE: Integer.java
+
+API: Integer documentation jdk 8

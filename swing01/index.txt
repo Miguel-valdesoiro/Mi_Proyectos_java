@@ -1,0 +1,46 @@
+=====================================================================
+Ventana1.java: Construir una etiqueta con el mensaje HOLA MUNDO
+
+PROPIEDADES JLABEL
+------------------
+lblTitulo.setBackground(new java.awt.Color(0, 0, 0));
+lblTitulo.setFont(new java.awt.Font("Courier New", 0, 24)); 
+lblTitulo.setForeground(new java.awt.Color(255, 255, 255));
+lblTitulo.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+lblTitulo.setText("HOLA MUNDO");
+lblTitulo.setOpaque(true);
+=====================================================================
+Ventana2.java: Poner un boton que ponga en la etiqueta nuestro nombre
+
+public void personalizar_JFrame() {
+   this.setIconImage(Toolkit.getDefaultToolkit().createImage(Ventana2.class.getResource("mac.jpg")));
+   this.setLocationRelativeTo(null);
+   this.getContentPane().setBackground(Color.DARK_GRAY);
+   this.setSize(500,500);
+   this.setTitle("GUI");
+}
+
+PROPIEDADES JBUTTON
+-------------------
+cmdNombre.setForeground(new java.awt.Color(0, 0, 153));
+cmdNombre.setText("PONER NOMBRE");
+=====================================================================
+Ventana3.java: Sumar 2 números
+
+
+
+=====================================================================
+Ventana4.java JTextArea multiples líneas
+
+
+=====================================================================
+Ventana5.java: JList voy a mostrar una serie natural del 1 al 100
+=====================================================================
+Ventana6.java: JList separar en dos listas distintas los números pares e impares de la serie natural 1 al 100
+=====================================================================
+Ventana7.java: JList ingresar dinámicamente elementos al JList y luego un boton para invertir en otro JList.
+
+
+
+
+

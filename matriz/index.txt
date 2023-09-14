@@ -1,0 +1,12 @@
+Matriz1.java: Crear una matriz estática y mostrarla (Todo dentro del mail)
+Matriz2.java: Igual a Matriz1 pero modularmente.
+Matriz3.java: Invertir filas por columnas y viceversa.
+Matirz4.java: Modificar la matriz de tal forma que el número par
+              se cambie por 0, y el impar se cambie por 1.
+
+Matriz5.java: Crear una matriz dinámica.
+
+Matriz6.java: Guardar objetos(Triangulo) en una matriz.
+Matriz7.java: Crear una matriz con todos los números primos entre 1 y 1000.
+
+

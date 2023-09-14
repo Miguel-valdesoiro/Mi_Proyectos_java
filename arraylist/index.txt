@@ -1,0 +1,5 @@
+Principal1.java : Crear un array list de tipo entero y vamos a recorrerlo, añadir, eliminar
+
+Principal2.java : Crear un array list de tipo cadena. Convertir un vector de cadena a una lista de cadenas
+
+Principal3.java : Crear un array list de objetos de tipo Alumno y realizar operaciones insertar, eliminar, mostrar
